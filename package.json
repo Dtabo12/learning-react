@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-react-midudev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "projects/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtabo12/learning-react"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Dtabo12/learning-react/blob/main/README.md",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}

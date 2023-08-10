@@ -1,0 +1,26 @@
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.to-follow-container {
+    background-color: rgb(22, 24, 28);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    justify-content: space-between;
+    min-height: 15rem;
+    padding: 0.75rem 1rem;
+}
+
+.to-follow-container > header > h2 {
+    margin: 0rem;
+}
+
+.to-follow-container > footer {
+    color: #1D9BF0;
+}
