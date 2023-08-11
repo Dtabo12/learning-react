@@ -1,0 +1,9 @@
+.square {
+    border: 0.063rem solid #fff;
+    border-radius: .5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5rem;
+    height: 5rem;
+}
